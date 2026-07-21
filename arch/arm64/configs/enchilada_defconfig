@@ -6054,7 +6054,7 @@ CONFIG_QMI_ENCDEC=y
 # KernelSU
 #
 CONFIG_KSU=y
-CONFIG_KPM=y
+# CONFIG_KPM is not set
 # CONFIG_KSU_DEBUG is not set
 
 #
